@@ -5,7 +5,7 @@ Cách thức hoạt động:
 1. Chương trình .hta mở Prossecess bằng Powsershell run đoạn Base64
 
 <Dữ liệu trong *.hta>
-
+""
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +22,7 @@ Cách thức hoạt động:
 <!--Convert Base64 tạo bacth với endpoint https://github.com/hkoblack/Vietnamese-Buffalo/blob/concudaden/shell_run -->      
 </body>
 </head>
-</html>
+</html> ""
 
 
   2. Navite .dll từ code 
